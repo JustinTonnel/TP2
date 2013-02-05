@@ -1,13 +1,13 @@
 #container
 {
 	margin: 0 30px;
-	background: #fff;
-        color: green;
+	background: #33FF33;
+        
 }
 
 #header
 {
-	background: #ccc;
+	background: #FF99FF;
 	padding: 20px;
         color: blue;
 }
@@ -18,7 +18,8 @@
 {
 	float: left;
 	width: 100%;
-	background: #333;
+	background: #FF6600;
+        
 }
 
 #navigation ul
