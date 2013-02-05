@@ -2,12 +2,14 @@
 {
 	margin: 0 30px;
 	background: #fff;
+        color: green;
 }
 
 #header
 {
 	background: #ccc;
 	padding: 20px;
+        color: blue;
 }
 
 #header h1 { margin: 0; }
